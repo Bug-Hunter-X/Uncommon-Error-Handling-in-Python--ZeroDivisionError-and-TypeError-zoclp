@@ -1,0 +1,1 @@
+This repository contains a Python example demonstrating how to handle uncommon error scenarios gracefully. The code focuses on handling both ZeroDivisionError and TypeError exceptions, providing tailored error messages for different input types. This showcases best practices for robust error management.
